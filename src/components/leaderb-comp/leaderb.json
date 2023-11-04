@@ -1,0 +1,980 @@
+{
+    "juniorLeaderboard": [
+        {
+            "teamId": "6bab2",
+            "user1": "Prashant_10434",
+            "user2": null,
+            "score": 551,
+            "lastUpdate": "2023-09-12T23:38:50.054201+05:30",
+            "questionSolvedByUser": {
+                "Q1": 98,
+                "Q2": 100,
+                "Q3": 98,
+                "Q4": 125,
+                "Q5": 130,
+                "Q6": 0
+            },
+            "rank": 1
+        },
+        {
+            "teamId": "9714e",
+            "user1": "dev.wardule",
+            "user2": null,
+            "score": 542,
+            "lastUpdate": "2023-09-12T23:40:16.857521+05:30",
+            "questionSolvedByUser": {
+                "Q1": 97,
+                "Q2": 97,
+                "Q3": 97,
+                "Q4": 123,
+                "Q5": 128,
+                "Q6": 0
+            },
+            "rank": 2
+        },
+        {
+            "teamId": "ec66b",
+            "user1": "HP_2104",
+            "user2": null,
+            "score": 538,
+            "lastUpdate": "2023-09-12T23:39:44.716730+05:30",
+            "questionSolvedByUser": {
+                "Q1": 96,
+                "Q2": 93,
+                "Q3": 96,
+                "Q4": 124,
+                "Q5": 129,
+                "Q6": 0
+            },
+            "rank": 3
+        },
+        {
+            "teamId": "8ac48",
+            "user1": "yashp05",
+            "user2": null,
+            "score": 531,
+            "lastUpdate": "2023-09-12T23:39:49.724778+05:30",
+            "questionSolvedByUser": {
+                "Q1": 93,
+                "Q2": 98,
+                "Q3": 93,
+                "Q4": 127,
+                "Q5": 120,
+                "Q6": 0
+            },
+            "rank": 4
+        },
+        {
+            "teamId": "c0d5e",
+            "user1": "akshayjadhav",
+            "user2": null,
+            "score": 527,
+            "lastUpdate": "2023-09-12T23:21:43.565517+05:30",
+            "questionSolvedByUser": {
+                "Q1": 87,
+                "Q2": 95,
+                "Q3": 92,
+                "Q4": 130,
+                "Q5": 123,
+                "Q6": 0
+            },
+            "rank": 5
+        },
+        {
+            "teamId": "82fb5",
+            "user1": "Abhijeet_D_R",
+            "user2": null,
+            "score": 527,
+            "lastUpdate": "2023-09-12T23:58:44+05:30",
+            "questionSolvedByUser": {
+                "Q1": 99,
+                "Q2": 89,
+                "Q3": 91,
+                "Q4": 114,
+                "Q5": 119,
+                "Q6": 15
+            },
+            "rank": 6
+        },
+        {
+            "teamId": "3b89f",
+            "user1": "parthz_2003",
+            "user2": null,
+            "score": 510,
+            "lastUpdate": "2023-09-13T00:05:11.573270+05:30",
+            "questionSolvedByUser": {
+                "Q1": 89,
+                "Q2": 86,
+                "Q3": 89,
+                "Q4": 122,
+                "Q5": 124,
+                "Q6": 0
+            },
+            "rank": 7
+        },
+        {
+            "teamId": "f05c7",
+            "user1": "Jamshed11",
+            "user2": null,
+            "score": 423,
+            "lastUpdate": "2023-09-12T23:38:00.204631+05:30",
+            "questionSolvedByUser": {
+                "Q1": 79,
+                "Q2": 92,
+                "Q3": 0,
+                "Q4": 126,
+                "Q5": 126,
+                "Q6": 0
+            },
+            "rank": 8
+        },
+        {
+            "teamId": "f6da7",
+            "user1": "Horizon",
+            "user2": null,
+            "score": 394,
+            "lastUpdate": "2023-09-12T23:18:28.199750+05:30",
+            "questionSolvedByUser": {
+                "Q1": 90,
+                "Q2": 84,
+                "Q3": 95,
+                "Q4": 0,
+                "Q5": 125,
+                "Q6": 0
+            },
+            "rank": 9
+        },
+        {
+            "teamId": "f3ab9",
+            "user1": "yashpande",
+            "user2": null,
+            "score": 377,
+            "lastUpdate": "2023-09-12T23:30:47.508859+05:30",
+            "questionSolvedByUser": {
+                "Q1": 94,
+                "Q2": 74,
+                "Q3": 94,
+                "Q4": 115,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 10
+        },
+        {
+            "teamId": "8c080",
+            "user1": "tanmaysorte",
+            "user2": null,
+            "score": 333,
+            "lastUpdate": "2023-09-12T23:34:37.292920+05:30",
+            "questionSolvedByUser": {
+                "Q1": 83,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 129,
+                "Q5": 121,
+                "Q6": 0
+            },
+            "rank": 11
+        },
+        {
+            "teamId": "822e0",
+            "user1": "n0_0",
+            "user2": null,
+            "score": 319,
+            "lastUpdate": "2023-09-12T23:08:02.165305+05:30",
+            "questionSolvedByUser": {
+                "Q1": 100,
+                "Q2": 0,
+                "Q3": 99,
+                "Q4": 0,
+                "Q5": 120,
+                "Q6": 0
+            },
+            "rank": 12
+        },
+        {
+            "teamId": "fcad5",
+            "user1": "VM_178",
+            "user2": null,
+            "score": 298,
+            "lastUpdate": "2023-09-12T23:31:51.982369+05:30",
+            "questionSolvedByUser": {
+                "Q1": 92,
+                "Q2": 84,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 122,
+                "Q6": 0
+            },
+            "rank": 13
+        },
+        {
+            "teamId": "a04c6",
+            "user1": "Pavan_77",
+            "user2": null,
+            "score": 195,
+            "lastUpdate": "2023-09-12T22:32:57.128182+05:30",
+            "questionSolvedByUser": {
+                "Q1": 95,
+                "Q2": 0,
+                "Q3": 100,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 14
+        },
+        {
+            "teamId": "4dac2",
+            "user1": "KP_45",
+            "user2": null,
+            "score": 182,
+            "lastUpdate": "2023-09-12T22:39:55.416090+05:30",
+            "questionSolvedByUser": {
+                "Q1": 86,
+                "Q2": 96,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 15
+        },
+        {
+            "teamId": "98fb3",
+            "user1": "YM",
+            "user2": null,
+            "score": 174,
+            "lastUpdate": "2023-09-12T22:55:17.950254+05:30",
+            "questionSolvedByUser": {
+                "Q1": 83,
+                "Q2": 91,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 16
+        },
+        {
+            "teamId": "d711a",
+            "user1": "the_noob_coder",
+            "user2": null,
+            "score": 172,
+            "lastUpdate": "2023-09-12T23:31:41.684410+05:30",
+            "questionSolvedByUser": {
+                "Q1": 85,
+                "Q2": 87,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 17
+        },
+        {
+            "teamId": "bbeed",
+            "user1": "rishi",
+            "user2": null,
+            "score": 168,
+            "lastUpdate": "2023-09-12T23:40:35.208956+05:30",
+            "questionSolvedByUser": {
+                "Q1": 78,
+                "Q2": 0,
+                "Q3": 90,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 18
+        },
+        {
+            "teamId": "63318",
+            "user1": "ak1932",
+            "user2": null,
+            "score": 149,
+            "lastUpdate": "2023-09-12T23:44:39.884084+05:30",
+            "questionSolvedByUser": {
+                "Q1": 73,
+                "Q2": 76,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 19
+        },
+        {
+            "teamId": "8654e",
+            "user1": "Anurag6787",
+            "user2": null,
+            "score": 81,
+            "lastUpdate": "2023-09-12T22:31:14.473829+05:30",
+            "questionSolvedByUser": {
+                "Q1": 81,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 20
+        },
+        {
+            "teamId": "9c813",
+            "user1": "Vic710",
+            "user2": null,
+            "score": 77,
+            "lastUpdate": "2023-09-12T22:55:59.293962+05:30",
+            "questionSolvedByUser": {
+                "Q1": 77,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 21
+        },
+        {
+            "teamId": "baed8",
+            "user1": "tanayduddalwar",
+            "user2": null,
+            "score": 76,
+            "lastUpdate": "2023-09-12T23:01:00.790072+05:30",
+            "questionSolvedByUser": {
+                "Q1": 76,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 22
+        },
+        {
+            "teamId": "8fab4",
+            "user1": "omkar11",
+            "user2": null,
+            "score": 76,
+            "lastUpdate": "2023-09-12T23:13:51.419244+05:30",
+            "questionSolvedByUser": {
+                "Q1": 76,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 23
+        },
+        {
+            "teamId": "2c74b",
+            "user1": "Gopaldose21",
+            "user2": null,
+            "score": 75,
+            "lastUpdate": "2023-09-12T23:33:26.785201+05:30",
+            "questionSolvedByUser": {
+                "Q1": 75,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 24
+        },
+        {
+            "teamId": "06a8a",
+            "user1": "balaji",
+            "user2": null,
+            "score": 45,
+            "lastUpdate": "2023-09-12T23:45:18.327090+05:30",
+            "questionSolvedByUser": {
+                "Q1": 45,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 25
+        },
+        {
+            "teamId": "6afbf",
+            "user1": "abhaytagad",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:03.876903+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 26
+        },
+        {
+            "teamId": "35f65",
+            "user1": "khandu",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 27
+        },
+        {
+            "teamId": "fc30c",
+            "user1": "sunnydhokane",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.054987+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 28
+        },
+        {
+            "teamId": "d46ee",
+            "user1": "prasanna",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 29
+        },
+        {
+            "teamId": "b1966",
+            "user1": "shitanshu18",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 30
+        },
+        {
+            "teamId": "e00a9",
+            "user1": "andya",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 31
+        },
+        {
+            "teamId": "0b950",
+            "user1": "Sahil",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 32
+        },
+        {
+            "teamId": "d47b2",
+            "user1": "TwoMelonsOneBanana",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 33
+        },
+        {
+            "teamId": "86dad",
+            "user1": "mahesh_901",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T19:00:04.260438+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 34
+        },
+        {
+            "teamId": "191d3",
+            "user1": "Prathamesh47",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:01:25.754548+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 35
+        },
+        {
+            "teamId": "a7251",
+            "user1": "hiten123",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.015050+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 36
+        },
+        {
+            "teamId": "e5d53",
+            "user1": "Shewale",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.015050+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 37
+        },
+        {
+            "teamId": "f154c",
+            "user1": "CalmestViper",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.202670+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 38
+        },
+        {
+            "teamId": "bd5c2",
+            "user1": "Yasharth_55",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.202670+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 39
+        },
+        {
+            "teamId": "e53f7",
+            "user1": "Omkar",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.202670+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 40
+        },
+        {
+            "teamId": "4aeaa",
+            "user1": "AS008",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:06:21.202670+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 41
+        },
+        {
+            "teamId": "08f35",
+            "user1": "infinity1410",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:46:02+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 42
+        },
+        {
+            "teamId": "beb63",
+            "user1": "Harsh2104",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:46:02.403655+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 43
+        },
+        {
+            "teamId": "c1341",
+            "user1": "Tashkaur",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:18+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 44
+        },
+        {
+            "teamId": "7ec4d",
+            "user1": "GibMeDaCookie09",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:18+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 45
+        },
+        {
+            "teamId": "543e3",
+            "user1": "netal_a",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:18.937629+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 46
+        },
+        {
+            "teamId": "b922a",
+            "user1": "MysticJamdam",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:18.937629+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 47
+        },
+        {
+            "teamId": "38736",
+            "user1": "madhur_mundada",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.149781+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 48
+        },
+        {
+            "teamId": "fafd3",
+            "user1": "Mahesh_901",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.149781+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 49
+        },
+        {
+            "teamId": "130d1",
+            "user1": "Waffl3",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.149781+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 50
+        },
+        {
+            "teamId": "8155f",
+            "user1": "mihir17",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.149781+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 51
+        },
+        {
+            "teamId": "96574",
+            "user1": "sahil",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.216624+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 52
+        },
+        {
+            "teamId": "848e7",
+            "user1": "omkar",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.216624+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 53
+        },
+        {
+            "teamId": "bed33",
+            "user1": "madhurmundada",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:51:19.216624+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 54
+        },
+        {
+            "teamId": "a5b82",
+            "user1": "prasad",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:56:19+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 55
+        },
+        {
+            "teamId": "982b4",
+            "user1": "hitesh",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T21:56:20+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 56
+        },
+        {
+            "teamId": "9c414",
+            "user1": "chirag57",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T22:20:58.859574+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 57
+        },
+        {
+            "teamId": "4008a",
+            "user1": "vansh_madbomb",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T22:23:41.433006+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 58
+        },
+        {
+            "teamId": "24df9",
+            "user1": "testuser11",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T22:57:56+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 59
+        },
+        {
+            "teamId": "d7098",
+            "user1": "dinesh_65",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T22:59:23.347627+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 60
+        },
+        {
+            "teamId": "0de99",
+            "user1": "Avadhut05",
+            "user2": null,
+            "score": 0,
+            "lastUpdate": "2023-09-12T23:01:53+05:30",
+            "questionSolvedByUser": {
+                "Q1": 0,
+                "Q2": 0,
+                "Q3": 0,
+                "Q4": 0,
+                "Q5": 0,
+                "Q6": 0
+            },
+            "rank": 61
+        }
+    ]
+}
